@@ -1,0 +1,14 @@
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/bin/Debug/net8.0/Csharp
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/bin/Debug/net8.0/Csharp.deps.json
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/bin/Debug/net8.0/Csharp.runtimeconfig.json
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/bin/Debug/net8.0/Csharp.dll
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/bin/Debug/net8.0/Csharp.pdb
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfoInputs.cache
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfo.cs
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/Csharp.csproj.CoreCompileInputs.cache
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/Csharp.dll
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/refint/Csharp.dll
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/Csharp.pdb
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/Csharp.genruntimeconfig.cache
+/mnt/c/Users/gtd19/OneDrive - University of Canterbury/NZ2208/Programming/LeetCode/Csharp/obj/Debug/net8.0/ref/Csharp.dll
